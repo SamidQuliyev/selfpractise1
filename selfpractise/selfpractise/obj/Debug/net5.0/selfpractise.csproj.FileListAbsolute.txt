@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\selfpractise\selfpractise\bin\Debug\net5.0\selfpractise.exe
+C:\Users\HP\source\repos\selfpractise\selfpractise\bin\Debug\net5.0\selfpractise.deps.json
+C:\Users\HP\source\repos\selfpractise\selfpractise\bin\Debug\net5.0\selfpractise.runtimeconfig.json
+C:\Users\HP\source\repos\selfpractise\selfpractise\bin\Debug\net5.0\selfpractise.runtimeconfig.dev.json
+C:\Users\HP\source\repos\selfpractise\selfpractise\bin\Debug\net5.0\selfpractise.dll
+C:\Users\HP\source\repos\selfpractise\selfpractise\bin\Debug\net5.0\ref\selfpractise.dll
+C:\Users\HP\source\repos\selfpractise\selfpractise\bin\Debug\net5.0\selfpractise.pdb
+C:\Users\HP\source\repos\selfpractise\selfpractise\obj\Debug\net5.0\selfpractise.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\selfpractise\selfpractise\obj\Debug\net5.0\selfpractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\selfpractise\selfpractise\obj\Debug\net5.0\selfpractise.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\selfpractise\selfpractise\obj\Debug\net5.0\selfpractise.AssemblyInfo.cs
+C:\Users\HP\source\repos\selfpractise\selfpractise\obj\Debug\net5.0\selfpractise.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\selfpractise\selfpractise\obj\Debug\net5.0\selfpractise.dll
+C:\Users\HP\source\repos\selfpractise\selfpractise\obj\Debug\net5.0\ref\selfpractise.dll
+C:\Users\HP\source\repos\selfpractise\selfpractise\obj\Debug\net5.0\selfpractise.pdb
+C:\Users\HP\source\repos\selfpractise\selfpractise\obj\Debug\net5.0\selfpractise.genruntimeconfig.cache
